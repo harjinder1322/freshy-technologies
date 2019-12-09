@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Freshy Technologies
 sections:
 - type: heroblock
   template: heroblock
@@ -7,6 +7,8 @@ sections:
   component: hero_block.html
   content: This section can contain a subtitle or tagline. The recommended length
     is one to three sentences, but can be changed as you prefer.
+  title: ''
+  actions: []
 - type: contentblock
   template: contentblock
   title: About
@@ -19,6 +21,7 @@ sections:
     yourself that people can read on the homepage to get a sense of who you are. There
     also exists a dedicated about page where you can write more about yourself for
     those who are interested.
+  image: ''
 - type: postsblock
   template: postsblock
   title: Recent Posts
