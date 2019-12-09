@@ -7,7 +7,7 @@ palette: blue
 header:
   title: Freshy Technologies
   tagline: Easy, Fast at Home
-  profile_img: images/avatar.png
+  profile_img: "/images/de375b74-1a07-45ff-86da-d11916ebbe73_200x200 (1).png"
   bg: dark
   has_nav: true
   has_social: true
