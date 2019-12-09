@@ -6,7 +6,7 @@ sections:
   section_id: hero
   component: hero_block.html
   content: Hey there, connect with us and help people for learning cooking
-  title: ''
+  title: Freshy Technologies
   actions: []
 - type: contentblock
   template: contentblock
