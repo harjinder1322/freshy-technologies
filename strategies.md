@@ -6,6 +6,6 @@ img_path: "/images/9.jpg"
 menu:
   main:
     weight: 3
-    title: Stratigies
+    title: Strategies
 
 ---
