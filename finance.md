@@ -5,6 +5,6 @@ subtitle: Finance
 img_path: "/images/avatar.png"
 menu:
   main:
-    weight: 9
+    weight: 6
 
 ---

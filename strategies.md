@@ -5,7 +5,7 @@ subtitle: strategies
 img_path: "/images/9.jpg"
 menu:
   main:
-    weight: 2
+    weight: 3
     title: Stratigies
 
 ---

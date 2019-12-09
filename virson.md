@@ -5,7 +5,7 @@ subtitle: Visoning listed
 img_path: "/images/intro.jpg"
 menu:
   main:
-    weight: 10
+    weight: 2
     title: Version
 
 ---

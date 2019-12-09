@@ -5,6 +5,6 @@ subtitle: Marketing
 img_path: "/images/1.jpg"
 menu:
   main:
-    weight: 8
+    weight: 5
 
 ---
