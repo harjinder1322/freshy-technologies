@@ -3,8 +3,7 @@ title: Home
 sections:
 - type: heroblock
   template: heroblock
-  section_id: 'We are a community of developers who wants to be volunteers for the
-    support of this product '
+  section_id: Hero
   component: hero_block.html
   content: Hey there, connect with us and help people for learning cooking
   title: Freshy Technologies
