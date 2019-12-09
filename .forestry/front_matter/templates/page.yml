@@ -24,6 +24,7 @@ fields:
   config:
     required: true
 pages:
+- finance.md
 - marketing.md
 - risk.md
 - strategies.md
