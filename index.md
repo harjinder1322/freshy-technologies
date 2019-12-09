@@ -1,5 +1,5 @@
 ---
-title: Freshy Technologies
+title: Home
 sections:
 - type: heroblock
   template: heroblock
