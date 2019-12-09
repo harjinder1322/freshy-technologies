@@ -24,10 +24,10 @@ fields:
   config:
     required: true
 pages:
+- virson.md
 - finance.md
 - marketing.md
 - risk.md
 - strategies.md
-- virson.md
 - style-guide.md
 - about.md

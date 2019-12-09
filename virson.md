@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Virson
+title: Vision
 subtitle: Visoning listed
 img_path: "/images/intro.jpg"
 menu:
