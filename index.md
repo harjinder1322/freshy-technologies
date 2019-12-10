@@ -5,7 +5,9 @@ sections:
   template: heroblock
   section_id: Hero
   component: hero_block.html
-  content: Hey there, connect with us and help people for learning cooking
+  content: We are group of programmers doing the volunteer work for helping the international
+    students and trying to bringing the people together by knowing about each others
+    food and cooking.
   title: Freshy Technologies
   actions: []
 - type: contentblock
