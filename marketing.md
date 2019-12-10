@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Marketing
-subtitle: Marketing
-img_path: "/images/1.jpg"
+subtitle: ''
+img_path: "/images/digital marketing services.png"
 menu:
   main:
     weight: 5
