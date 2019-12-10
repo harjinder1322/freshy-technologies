@@ -5,9 +5,9 @@ sections:
   template: heroblock
   section_id: Hero
   component: hero_block.html
-  content: We are group of programmers doing the volunteer work for helping the international
-    students and trying to bringing the people together by knowing about each others
-    food and cooking.
+  content: We are group of programmers team up together for helping the international
+    students and trying to bringing the people and different cultures together by
+    knowing about each others food habits and cooking.
   title: Freshy Technologies
   actions: []
 - type: contentblock
