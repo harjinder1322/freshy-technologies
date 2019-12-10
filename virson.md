@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Vision
-subtitle: Visoning listed
+subtitle: Globally, Easily at home.
 img_path: "/images/intro.jpg"
 menu:
   main:
