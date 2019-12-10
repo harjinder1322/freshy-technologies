@@ -16,7 +16,10 @@ sections:
   - label: Contact Me
     url: "/contact"
   component: content_block.html
-  content: we need volunteers for completing this project
+  content: |-
+    Every year thousands of international students are migrating to Canada. Food is one of the major problems they have to face if they don’t know cooking. Buying the cooked food is very expensive in the market and they miss their cultural food too.
+
+    For solving this issue our company is going to provide an online platform to help the international students and the people who want to learn/share their cooking skills.
   image: ''
 layout: home
 menu:
