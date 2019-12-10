@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Risk
-subtitle: Risk
+subtitle: ''
 img_path: ''
 menu:
   main:
